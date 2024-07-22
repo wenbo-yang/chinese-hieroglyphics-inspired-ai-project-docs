@@ -1,0 +1,7 @@
+# GitHub CODEOWNERS file
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Code owners are automatically requested for review
+# when someone opens a pull request that modifies code that they own.
+
+* wenbo.yang.84@gmail.com
